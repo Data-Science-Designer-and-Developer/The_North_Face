@@ -1,4 +1,5 @@
-# The North Face Product Catalog Analysis – CDSD Certification Project
+# The North Face Product Catalog Analysis 
+CDSD Certification Project
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.6-green) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2-yellow) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-orange)
 
