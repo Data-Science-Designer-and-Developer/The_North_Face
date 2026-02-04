@@ -1,0 +1,16 @@
+.env
+# Ignorer le dossier Old_Crap
+Old_Crap/
+
+# Ignorer les fichiers Jupyter temporaires
+.ipynb_checkpoints/
+
+# Ignorer les fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers système
+.DS_Store
+# Ignorer les dossiers de données volumineuses
+data/
+logs/   
